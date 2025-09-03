@@ -12,6 +12,7 @@ for i in range(28):
 print(num[0])
 print(num[1])
 
+# 리스트에서 활용 가능한 함수
 # list.append(x): 끝에 x 추가
 # list.append(x,y): 인덱스 x에 y 추가
 # list.sort(): 오름차순 정리
