@@ -18,7 +18,7 @@ print(num[1])
 # list.sort(): 오름차순 정리
 # list.reverse(): 요소들을 역순 정리
 # list.index(x): x의 인덱스 출력
-# list.remoce(x): x 요소 제거
+# list.remove(x): x 요소 제거
 # list.pop(x): x 요소 출력 및 제거
 # list.count(x): x 요소 개수 출력
 # list.extend([listA]): list에 listA 추가
